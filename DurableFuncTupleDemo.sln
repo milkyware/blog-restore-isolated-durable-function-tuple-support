@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34408.163
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D5ED58D4-45BB-4EED-9D85-B3D471FCAE59}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DurableFuncTupleDemo", "src\DurableFuncTupleDemo\DurableFuncTupleDemo.csproj", "{188386FD-5038-4F71-A6E5-953172546FD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solution", "solution", "{F71AF841-E004-4A37-8ABE-286F5238CE58}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{188386FD-5038-4F71-A6E5-953172546FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{188386FD-5038-4F71-A6E5-953172546FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{188386FD-5038-4F71-A6E5-953172546FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{188386FD-5038-4F71-A6E5-953172546FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{188386FD-5038-4F71-A6E5-953172546FD6} = {D5ED58D4-45BB-4EED-9D85-B3D471FCAE59}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F43D2B1-EF47-47EE-8513-956D6D21AFE6}
+	EndGlobalSection
+EndGlobal
